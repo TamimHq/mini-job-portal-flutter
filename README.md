@@ -75,4 +75,8 @@ cd mini-job-portal-flutter
 ## 📱 Download APK
 You can download the latest working APK build of the **Mini Job Portal App** from the link below:
 
-👉 [**Download Latest Release (APK)**](https://github.com/TamimHq/mini-job-portal-flutter/releases/latest)
+👉 [**Download Latest Release (APK)**](https://github.com/TamimHq/mini-job-portal-flutter/releases/latest)  
+
+### 🧑‍💻 Developer
+**Name:** Tamim Haque  
+**Phone No:** +8801783136035
